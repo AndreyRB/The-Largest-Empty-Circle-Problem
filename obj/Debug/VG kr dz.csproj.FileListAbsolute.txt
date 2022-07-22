@@ -1,0 +1,11 @@
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\bin\Debug\VG kr dz.exe.config
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\bin\Debug\VG kr dz.exe
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\bin\Debug\VG kr dz.pdb
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\obj\Debug\VG kr dz.csproj.SuggestedBindingRedirects.cache
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\obj\Debug\VG_kr_dz.Form1.resources
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\obj\Debug\VG_kr_dz.Properties.Resources.resources
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\obj\Debug\VG kr dz.csproj.GenerateResource.cache
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\obj\Debug\VG kr dz.csproj.CoreCompileInputs.cache
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\obj\Debug\VG kr dz.exe
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\obj\Debug\VG kr dz.pdb
+C:\Учёба\6 семестр\ВЫЧГЕМ\VG kr dz\obj\Debug\VG kr dz.csproj.AssemblyReference.cache
